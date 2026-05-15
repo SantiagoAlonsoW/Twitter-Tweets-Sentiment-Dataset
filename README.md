@@ -2,8 +2,6 @@
 
 Este proyecto consiste en el desarrollo de una red neuronal para la clasificación de sentimientos en una base de datos de tweets (27,480 registros). Se aplicaron técnicas avanzadas de **Procesamiento de Lenguaje Natural (NLP)** y **Deep Learning**.
 
-**Nota obtenida:** 95/100 🏆
-
 ## 🚀 Resumen del Proyecto
 El objetivo principal fue transformar texto crudo en representaciones numéricas capaces de alimentar una red neuronal multicapa para predecir si un tweet es **Positivo, Neutral o Negativo**.
 
